@@ -1,5 +1,5 @@
 # mybuildenvironment
-Build environment for most of programmes
+Build environment for most of the programmes
 
 ### This will be my default build environment unless specified otherwise
 
